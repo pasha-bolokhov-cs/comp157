@@ -43,7 +43,6 @@ namespace assign2 {
 			default:
 				Console.Error.WriteLine("unknown function `" + trig + "'");
 				return;
-				break;
 			}
 		}
 
